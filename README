@@ -1,6 +1,6 @@
 xmodmap
 ------------------------------------------
-Xorg keyboard modifier map and keymap table utility
+X.Org keyboard modifier map and keymap table utility
 
 Runtime requirements:
   cygwin-1.5.24-2

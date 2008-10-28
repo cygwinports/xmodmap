@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6
-sdesc: "Xorg keyboard modifier map and keymap table utility"
-ldesc: "Xorg keyboard modifier map and keymap table utility"
+sdesc: "X.Org keyboard modifier map and keymap table utility"
+ldesc: "X.Org keyboard modifier map and keymap table utility"
