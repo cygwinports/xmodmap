@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xmodmap"
+VERSION=1.0.7
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org keyboard modifier map and keymap table utility"
+DESCRIPTION="X.Org keyboard modifier map and keymap table utility"
