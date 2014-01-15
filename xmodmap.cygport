@@ -1,8 +1,12 @@
 inherit xorg
 
 NAME="xmodmap"
-VERSION=1.0.7
+VERSION=1.0.8
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org keyboard modifier map and keymap table utility"
-DESCRIPTION="X.Org keyboard modifier map and keymap table utility"
+DESCRIPTION="The xmodmap program is used to edit and display the keyboard
+modifier map and keymap table that are used by client applications to
+convert event keycodes into keysyms.  It is usually run from the user's
+session startup script to configure the keyboard according to personal
+tastes."
